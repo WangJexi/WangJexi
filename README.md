@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangJexi
 - 👀 I’m interested in Science, Techno;ogy and Comics.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
